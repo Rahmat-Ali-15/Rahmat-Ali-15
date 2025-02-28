@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **developer.rahmat15@gmail.com**
 
-- ⚡ Fun fact **I think I am a funny**
+- ⚡ Fun fact **If brain is not equal to empty!!! then keep coding else order a coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
