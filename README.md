@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat")
+
 <h1 align="center">Hey 👋 I'm Md Rahmat Ali...!</h1>
 
 ###
 
 🚀 Full-Stack Developer | HTML | CSS | JavaScript
-
 
 <h3>I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
 
@@ -43,9 +43,8 @@
 
 ###
 
-
-
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
 ###
 
 <h2 align="left">Connect with me</h2>
@@ -60,11 +59,12 @@
 </div>
 
 ###
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmat-Ali-15-2604&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmat-ali-15-2604&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahmat-Ali-15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmat-ali-15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
