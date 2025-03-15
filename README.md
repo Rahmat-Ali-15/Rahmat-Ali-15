@@ -1,14 +1,13 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat" alt="rahmat-ali-15" /> </p>
 <h1 align="center">Hi 👋, I'm Md Rahmat Ali</h1>
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
+<img align="right" alt="coding" width="400px" height="160px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <h3 align="center">I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat" alt="rahmat-ali-15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmat-ali-15" alt="rahmat-ali-15" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS, JavaScript**
@@ -28,7 +27,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmat-ali-15&show_icons=true&locale=en&layout=compact" alt="rahmat-ali-15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&show_icons=true&locale=en" alt="rahmat-ali-15" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&" alt="rahmat-ali-15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&show_icons=true&locale=en" alt="rahmat-ali-15" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmat-ali-15" alt="rahmat-ali-15" /></a> </p>
+
