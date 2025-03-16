@@ -18,11 +18,10 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning JavaScript<br><br>💬 Ask me about HTML, CSS, JavaScript <br><br>📫 How to reach me , <a href="mdrahmatali926298@gmail.com"> mdrahmatali926298@gmail.com </a>
+<h4 align="left">🌱 I’m currently learning JavaScript<br><br>💬 Ask me about HTML, CSS, JavaScript <br><br>⚡ Fun fact - If brain is not equal to empty!!! then keep coding else order a coffee.<br><br>📫 How to reach me - <a href="mdrahmatali926298@gmail.com"> mdrahmatali926298@gmail.com </a>
 </h4>
 
 ###
-
 <h2 align="left">I code with</h2>
 
 ###
