@@ -1,6 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat")
 
 <h1 align="center">Hey 👋 I'm Md Rahmat Ali...!</h1>
+<div align="center">
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
+</div>
 
 ###
 
@@ -8,9 +11,7 @@
 
 <h3>I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
 
-<div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
-</div>
+
 
 ###
 
