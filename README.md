@@ -4,7 +4,9 @@
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=atharhive&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 ###
 
 🚀 Full-Stack Developer | HTML | CSS | JavaScript
