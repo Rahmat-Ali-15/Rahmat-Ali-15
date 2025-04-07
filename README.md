@@ -1,9 +1,19 @@
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat" alt="rahmat-ali-15" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Md Rahmat Ali</h1>
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
+
+###
+🚀 Full-Stack Developer | HTML | CSS | JavaScript
+###
 <h3 align="center">I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
+
+
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS, JavaScript**
@@ -54,13 +64,16 @@
    </p>
 <table>
  <tr>
-  <td>
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
-  </td>
-  <td>
+   <td>
    
    ![rahmat-ali-15 stats](https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&theme=dark&show_icons=true)
+   
    </td>
+
+  <td>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&theme=github_dark&hide_border=true)](https://github.com/rahmat-ali-15)
+  </td>
+
  </tr>
 </table>
