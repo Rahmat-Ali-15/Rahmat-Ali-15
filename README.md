@@ -8,7 +8,7 @@
 
 🚀 Full-Stack Developer | HTML | CSS | JavaScript
 
-<h3>I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
+<h3 align="center">I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
 
 
 
