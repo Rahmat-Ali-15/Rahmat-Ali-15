@@ -4,7 +4,6 @@
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true"  />
 </div>
-###
 
 🚀 Full-Stack Developer | HTML | CSS | JavaScript
 
