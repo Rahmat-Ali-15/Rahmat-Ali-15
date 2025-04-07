@@ -54,7 +54,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmat-ali-15&show_icons=true&locale=en&layout=compact" alt="rahmat-ali-15" /></p>
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmat-ali-15&show_icons=true&locale=en&layout=compact" alt="rahmat-ali-15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&" alt="rahmat-ali-15" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&show_icons=true&locale=en" alt="rahmat-ali-15" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmat-ali-15" alt="rahmat-ali-15" /></a> </p> -->
@@ -63,19 +63,19 @@
  <tr>
   <td>
    <p align="center">
-    <a href="https://github.com/mehfoozkhangithub/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozkhangithub&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    <a href="https://github.com/rahmat-ali-15github/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
     </a>
 </p>
   
   </td>
   <td>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozkhangithub&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mehfoozkhangithub)
   </td>
   <td>
    
-   ![mehfoozkhangithub stats](https://github-readme-stats.vercel.app/api?username=mehfoozkhangithub&theme=dark&show_icons=true)
+   ![rahmat-ali-15 stats](https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&theme=dark&show_icons=true)
    </td>
  </tr>
 </table>
