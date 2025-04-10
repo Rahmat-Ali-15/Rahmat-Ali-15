@@ -1,4 +1,4 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+![MasterHead](FullStack-salar.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmat-ali-15&label=Profile%20views&color=0e75b6&style=flat" alt="rahmat-ali-15" /> </p>
 
