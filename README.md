@@ -59,20 +59,25 @@
 
    <p align="center">
       <a href="https://github.com/rahmat-ali-15github/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+        <!-- <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmat-ali-15&hide_border=true"/>
       </a>
    </p>
 <table>
  <tr>
    <td>
    
-   ![rahmat-ali-15 stats](https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&theme=dark&show_icons=true)
+   <!-- ![rahmat-ali-15 stats](https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&theme=dark&show_icons=true) -->
+   ![rahmat-ali-15 stats](https://github-readme-stats.vercel.app/api?username=rahmat-ali-15&show_icons=true)
+
    
    </td>
 
   <td>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&theme=github_dark&hide_border=true)](https://github.com/rahmat-ali-15)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&theme=github_dark&hide_border=true)](https://github.com/rahmat-ali-15) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmat-ali-15&layout=compact&hide_border=true)](https://github.com/rahmat-ali-15)
+
   </td>
 
  </tr>
