@@ -9,14 +9,14 @@
 </div>
 
 ###
-🚀 Full-Stack Developer | HTML | CSS | JavaScript | React
+🚀 Full-Stack Developer | HTML | CSS | JavaScript | React | Redux
 ###
 <h3 align="center">I am a MERN Stack Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about creating responsive and user-friendly web interfaces, I focus on writing clean, efficient code and continuously expanding my web development skills.</h3>
 
 
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **developer.rahmat15@gmail.com**
 
