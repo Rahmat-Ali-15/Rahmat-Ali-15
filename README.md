@@ -37,6 +37,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic" style="height: 28px" />
+ <img alt="Redux" src="https://img.shields.io/badge/Redux-764abc?logo=Redux&logoColor=white&style=plastic" />
 
 <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
